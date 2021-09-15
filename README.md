@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Yash Sethiya from India, and I do content on web development. I enjoy learning languages and frameworks like Node.js and React as well as work in python. I also enjoy DSA and Problem Solving in general. You can check out my leetcode profile at https://leetcode.com/Yash_Sethiya/ or HackerRank Profile https://www.hackerrank.com/yashsethiya58?hr_r=1.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yes-58)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yes-58&show_icons=true&theme=radical)
 
 
 <!---
